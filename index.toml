@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "38cd2a54604d966a03b9c48af284f16709a83e2fc8a64eaf2b491633a64bf496"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true

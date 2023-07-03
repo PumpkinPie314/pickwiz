@@ -1,0 +1,13 @@
+name = "ppack"
+author = "pumpkin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e3fd694e150ce5b000aa7bbafc1362655bc00e8bb12d8f22a8c379eafcf0063"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
