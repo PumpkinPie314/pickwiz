@@ -1,12 +1,12 @@
 name = "ppack"
 author = "Pumpkin"
-version = "2.0.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "077d64928fe0c8ea8322fe6f3ee6556351011f16712073baeb731952c6a0c531"
+hash = "ae07e6c2bfbadaa9d7facb560645ac07cf69b747b2952603a39fe3c4ab7b1c92"
 
 [versions]
 fabric = "0.14.21"
